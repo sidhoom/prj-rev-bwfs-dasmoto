@@ -1,0 +1,39 @@
+/* Overall font  */
+H1, H2, p {
+  font-family: Helvetica;
+}
+
+/* Heading */
+H1 {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+
+/* All H2s*/
+H2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+/* Individual H2s */
+#Brushes {
+  background-color: mediumspringgreen;
+}
+#Frames {
+  background-color: lightcoral;
+}
+#Paint {
+  background-color: skyblue;
+}
+
+/* Mark in paragraph for prices */
+Mark{
+  background-color: white;
+  font-weight:bold;
+  color:blue
+}
